@@ -79,6 +79,29 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+      },
+      {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "cost",
+      "patterns": [
+        "Whats the cost?",
+        "How much money?"
+      ],
+      "responses": [
+        "Both tea and coffee is $1.",
+        "Tea and Coffee cost $1 each."
+      ]
     }
   ]
 }
