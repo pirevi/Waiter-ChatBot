@@ -9,3 +9,5 @@ $ pip install nltk
 
 ## How to Run:
 Execute __chat_on_terminal.py__ file on terminal.
+
+<img src="/run_code.PNG" alt="Running code in terminal"/>
